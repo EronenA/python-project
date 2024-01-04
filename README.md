@@ -1,2 +1,2 @@
 # python-project
-Python project
+Python project made during a course
